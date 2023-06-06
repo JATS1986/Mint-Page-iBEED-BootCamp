@@ -17,8 +17,8 @@ export default function Home(){
   const isMismatched = useNetworkMismatch()
 
   // Campos a Serem Personalizados
-    const nameProjet = "BootCamp iBEED"  // Nome do seu Projeto
-    const { contract } = useContract("0xE21964C19fb32f02e474ae83b126B87E6D1C2301") // Endereço da sua Coleção
+    const nameProjet = "jats1986"  // Nome do seu Projeto
+    const { contract } = useContract("0x97cc86F651f2eAAbE1849727ca8ae390acEb7f9d") // Endereço da sua Coleção
     const tokenId = 0 // Token ID que você quer liberar o Mint
   // -------------------------------
 
